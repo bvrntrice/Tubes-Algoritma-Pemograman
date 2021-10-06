@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586705817 source:c:\users\asus\documents\kuliah\semester 2\algoritma pemograman\tubes\tubes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
